@@ -1,0 +1,10 @@
+# Data processing & plotting
+pandas
+numpy
+matplotlib
+
+# Machine learning
+scikit-learn
+
+# Deep learning
+tensorflow
